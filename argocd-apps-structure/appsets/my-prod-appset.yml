@@ -26,7 +26,7 @@ spec:
         targetRevision: HEAD
         path: '{{.path.path}}'
       
-      # Destination cluster and namespace to deploy the application
+      # Destination cluster and namespace to deploy the applicationee
       destination:
         name: cluster-2
         namespace: '{{index .path.segments 2}}-{{index .path.segments 4}}'
