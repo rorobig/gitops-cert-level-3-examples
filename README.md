@@ -1,4 +1,4 @@
-Codefresh GitOps Certification examples - Level 3 - GitOps Enterprise
+Codefresh GitOps Certification examples - Level 3 - GitOps Enterprise billing
 
 This repository contains examples for the ArgoCD/GitOps certification workshops (Level 3)
 
